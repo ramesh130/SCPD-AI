@@ -33,9 +33,22 @@ http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?cer
   Free book by earlier course instructor [here](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
 
 * CS223A Introduction to Robotics
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11750&showInternal=true)
+  
+  Course notes for the Stanford class [here](http://cs.stanford.edu/groups/manips/teaching/cs223a/)
+  
+  Course video for the Stanford course [here](https://see.stanford.edu/Course/CS223A) or on [Youtube](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF)
+  
+  Course by the same faculty on Coursera [here](https://www.coursera.org/learn/machine-learning)
+  
 * CS224N Natural Language Processing with Deep Learning
 * CS228 Probabilistic Graphical Models: Principles and Techniques
 * CS229 Machine Learning
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11763&showInternal=true)
+  
+  Course video for the Stanford course [here](https://see.stanford.edu/Course/CS229) or on [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 * CS231A Computer Vision: From 3D Reconstruction to Recognition
 * CS231N Convolutional Neural Networks for Visual Recognition
 * AA228 Decision Making Under Uncertainty
