@@ -50,6 +50,12 @@ Course details [here](http://scpd.stanford.edu/public/category/courseCategoryCer
   Course video for the Stanford course [here](https://see.stanford.edu/Course/CS224N) or [Youtube](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)
   
 * CS228 Probabilistic Graphical Models: Principles and Techniques
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11761&showInternal=true)
+   Course notes for Stanford course [here](http://cs.stanford.edu/~ermon/cs228/index.html#coursework)
+   
+   Similar course on Coursera [here](https://www.coursera.org/learn/probabilistic-graphical-models)
+   
 * CS229 Machine Learning
 
   Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11763&showInternal=true)
@@ -71,4 +77,8 @@ Course details [here](http://scpd.stanford.edu/public/category/courseCategoryCer
   Course videos for the Stanford course on [Youtube](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
   
 * AA228 Decision Making Under Uncertainty
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=39254289&showInternal=true)
+  
+  Course notes from Stanford course [here](http://web.stanford.edu/class/aa228/#!index.md)
 
