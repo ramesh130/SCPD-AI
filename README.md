@@ -6,6 +6,11 @@ http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?cer
 
 ### Required Courses
 * CS157 Logic and Automated Reasoning
+
+  [Course link](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11730&showInternal=true)
+  
+  Course by the same faculty on Coursera [here](https://www.coursera.org/learn/logic-introduction)
+  
 * CS221 Artificial Intelligence: Principles and Techniques
 
   [Course link](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11747&showInternal=true)
