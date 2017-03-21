@@ -11,6 +11,10 @@ http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?cer
   [Course link](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11747&showInternal=true)
   
   Lecture notes [here](http://web.stanford.edu/class/cs221/)
+  
+  Earlier version of course taught by Sebastian Thrun, now on Udacity [here](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+  
+  AI course by MIT, video lectures [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
 ### Elective Courses
 * CS205A Mathematical Methods for Robotics, Vision, & Graphics
