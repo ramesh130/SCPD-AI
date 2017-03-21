@@ -57,6 +57,11 @@ Course details [here](http://scpd.stanford.edu/public/category/courseCategoryCer
   Course video for the Stanford course [here](https://see.stanford.edu/Course/CS229) or on [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
   
 * CS231A Computer Vision: From 3D Reconstruction to Recognition
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=10796915&showInternal=true)
+  
+  Course notes for the Stanford course [here](http://web.stanford.edu/class/cs231a/schedule.html)
+  
 * CS231N Convolutional Neural Networks for Visual Recognition
 
   Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=42262144&showInternal=true)
