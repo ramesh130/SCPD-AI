@@ -2,7 +2,8 @@
 Artificial Intelligence Graduate Certificate - Stanford
 
 Stanford Center for Professional Development ofers Graduate Certificate in Artificial Intelligence. The course fee is too high, so I have tried to collect the material freely available on the Internet to match each of the courses in the program.
-http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load
+
+Course details [here](http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load)
 
 ### Required Courses
 * CS157 Logic and Automated Reasoning
@@ -43,13 +44,26 @@ http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?cer
   Course by the same faculty on Coursera [here](https://www.coursera.org/learn/machine-learning)
   
 * CS224N Natural Language Processing with Deep Learning
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11754&showInternal=true)
+  
+  Course video for the Stanford course [here](https://see.stanford.edu/Course/CS224N) or [Youtube](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)
+  
 * CS228 Probabilistic Graphical Models: Principles and Techniques
 * CS229 Machine Learning
 
   Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=11763&showInternal=true)
   
   Course video for the Stanford course [here](https://see.stanford.edu/Course/CS229) or on [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+  
 * CS231A Computer Vision: From 3D Reconstruction to Recognition
 * CS231N Convolutional Neural Networks for Visual Recognition
+
+  Course link [here](http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=4E494CF0262AAA3627D567BC0620DF1D?method=load&courseId=42262144&showInternal=true)
+  
+  Course notes for the Stanford course [here](http://vision.stanford.edu/teaching/cs231n/)
+  
+  Course videos for the Stanford course on [Youtube](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
+  
 * AA228 Decision Making Under Uncertainty
 
